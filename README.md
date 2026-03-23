@@ -21,7 +21,9 @@ This analysis combines Python for telemetry processing and visualization with SQ
 💡**Key Insights**
 
 1.**Sector 3 Decider**: While Vettel was stronger in the heavy braking zones in Sector 1, Raikkonen's minimum cornering speed in the  *Lesmos* and exit from the *Parabolica* secured the pole position.
+
 2.**Track Evolution**: SQL aggregation confirms that both drivers successfully utilized track evolution in Q3, with lap times dropping consistently as grip levels peaked.
+
 3.**Efficiency**: The final gap of 0.1s highlights the identical performance of the Ferrari SF71H, where driving style became the deciding factor.
 
 🚀**How to Run**
